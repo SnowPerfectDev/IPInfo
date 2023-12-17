@@ -8,7 +8,8 @@ The `ipinfo.sh` script is a command-line tool that allows you to obtain detailed
 
 ```bash
 $ ./ipinfo.sh 8.8.8.8
-
+````
+```code
 IP: 8.8.8.8
 Region: California
 Hostname: dns.google
