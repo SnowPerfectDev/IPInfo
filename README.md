@@ -7,5 +7,15 @@ The `ipinfo.sh` script is a command-line tool that allows you to obtain detailed
 ### To use the script, simply run it with the desired IP address as an argument:
 
 ```bash
-> ./ipinfo.sh 8.8.8.8
+$ ./ipinfo.sh 8.8.8.8
+
+IP: 8.8.8.8
+Region: California
+Hostname: dns.google
+City: Mountain View
+Country: US
+Location: 37.4056,-122.0775
+Organization: AS15169 Google LLC
+Postal Code: 94043
+Timezone: America/Los_Angeles
 ```
